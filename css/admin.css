@@ -1,0 +1,175 @@
+*{
+margin:0;
+padding:0;
+}
+body{
+	
+}
+.navbar{
+	border-radius:0;
+	background-color:rgba(0,0,0, .7);
+}
+.navbar-brand {
+	font-size:20px;
+	color:#fff !important;
+	font-weight:700;
+}
+form{
+	padding-top:10px;
+}
+.section{
+	margin-top:80px !important;
+	width:100%;
+}
+.sidebar{
+	border-right:1px solid rgba(0,0,0, .3);
+}
+.sidebar .nav > li > a{
+	color:rgba(0,0,0, .7) !important;
+	font-size:14px;
+}
+.sidebar .dropdown-menu>li>a{
+	padding:5px 0 5px 5px;
+}
+.sidebar img{
+	border-radius:40%;
+	
+}
+.sidebar i{
+	font-size:18px;
+	padding-right:30px;
+}
+
+.sidebar h4{
+	color:gray;
+	margin-left:30px;
+}
+.menu{
+	border:1px solid #c4e17f;
+	text-align:justify;
+	padding:10px 20px 20px 15px;
+}
+
+.wallet{
+	margin-top:20px;
+	
+}
+.wallet .move{
+	margin-left:0px;
+	height:120px;
+}
+.wallet .progress{
+	height:6px !important;
+	border-radius:0;
+	margin-top:10px;
+	margin-left:20px;
+	width:90%;
+}
+.wallet p{
+	color:#fff; 
+	padding:20px 10px 10px 20px;
+}
+.wallet h5{
+	color:#fff;  
+	padding:5px 10px 10px 20px; 
+	margin-top:-15px;
+}
+@media (max-width:768px){
+	.wallet{
+	margin-top:40px;
+	}
+	.wallet .move{
+	margin-left:0px;
+	margin-top:10px;
+	height:120px;
+}
+}
+
+.list{
+	border:1px solid gray;
+	margin-top:20px;
+}
+.list .btn{
+	border-radius:0;
+	margin-top:10px;
+	
+}
+
+.list i{
+	font-size:14px;
+	padding-right:15px;
+	
+}
+.footer{
+	margin-top:50px;
+	padding:30x;
+	color:#cccccc;
+	background-color:#222222;
+}
+.footer a{
+	display:block;
+	color:#FFF;
+	font-size:16px;
+	padding:5px;
+	text-decoration:none;
+}
+.con .input-group{
+	margin-bottom:15px;
+}
+
+.con .form-control{
+	border-radius:0 !important;
+}
+.con span{
+	border-radius:0 !important;
+}
+.con .btn{
+	border-radius:0;
+	width:100%;
+	font-size:15px;
+	background-color:#f08080;
+	color:#fff;
+}
+.con .btn:hover{
+	background-color:#a85959 !important;
+	color:#fff !important;
+}
+
+.footer .social{
+	font-size:20px;
+	height:30px;
+	width:30px;
+	text-align:center;
+	padding:5px;
+	border:1px solid #cccccc;
+	margin-bottom:10px;
+	margin-right:5px;
+}
+
+.footer input{
+	height:40px;
+	width:160px;
+	padding:5px;
+	border:none;
+	background-color:#cccccc;
+	color:#000;
+}
+
+.footer .btn{
+	padding:10px 5px 10px;
+	margin:-3px 0 0 5px;
+}
+.footer .reach{
+	margin-top:25px;
+}
+.message{
+	margin-top:40px;
+	font-size:18px;
+	margin-left:30px;
+	margin-bottom:30px;
+}
+.message a{
+	font-size:17px;
+	text-decoration:none;
+	color:#F0F;
+}
